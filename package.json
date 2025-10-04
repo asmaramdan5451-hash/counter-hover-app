@@ -2,7 +2,10 @@
   "name": "07-counter-and-hover-using-hoc",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://asmaramdan5451-hash.github.io/counter-hover-app",
+=======
+>>>>>>> 37d46943538ed82699a9f8ab48c619e99fddbd6e
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -12,16 +15,23 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+<<<<<<< HEAD
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
+=======
+>>>>>>> 37d46943538ed82699a9f8ab48c619e99fddbd6e
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 37d46943538ed82699a9f8ab48c619e99fddbd6e
   },
   "eslintConfig": {
     "extends": [
@@ -41,4 +51,8 @@
       "last 1 safari version"
     ]
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 37d46943538ed82699a9f8ab48c619e99fddbd6e
