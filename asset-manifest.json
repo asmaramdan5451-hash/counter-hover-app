@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-hover-app/static/css/main.1ee6d93c.css",
+    "main.js": "/counter-hover-app/static/js/main.636d6e15.js",
+    "static/js/453.e1ea75d3.chunk.js": "/counter-hover-app/static/js/453.e1ea75d3.chunk.js",
+    "index.html": "/counter-hover-app/index.html",
+    "main.1ee6d93c.css.map": "/counter-hover-app/static/css/main.1ee6d93c.css.map",
+    "main.636d6e15.js.map": "/counter-hover-app/static/js/main.636d6e15.js.map",
+    "453.e1ea75d3.chunk.js.map": "/counter-hover-app/static/js/453.e1ea75d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee6d93c.css",
+    "static/js/main.636d6e15.js"
+  ]
+}
